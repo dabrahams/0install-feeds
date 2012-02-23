@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <?xml-stylesheet type='text/xsl' href='interface.xsl'?>
-<interface uri="https://raw.github.com/dabrahams/0install-feeds/master/SCons.xml" xmlns="http://zero-install.sourceforge.net/2004/injector/interface">
+<interface uri="http://dabrahams.github.com/0install-feeds/SCons.xml" xmlns="http://zero-install.sourceforge.net/2004/injector/interface">
   <name>SCons</name>
   <summary>a software construction tool</summary>
   <description>
@@ -53,7 +53,7 @@ and scanner objects.</description>
 
 </interface>
 <!-- Base64 Signature
-iEYEABECAAYFAk9F+x0ACgkQxnV5mk56UjEY8gCdHIlwOp/kKQLqchvtxoa9bZ3qAO8An3s95eQ6
-krOQ/JSEIgmwxMjJiGaI
+iEYEABECAAYFAk9GDhEACgkQxnV5mk56UjFEKgCdEu9w3xv5SIR7KjrEvEGyaC+eaFUAoJ5XwniQ
+c85dqDebMt0pvwgBX1QB
 
 -->
